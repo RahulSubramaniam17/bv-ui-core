@@ -17,7 +17,7 @@ nav:
   - loader: "loader/README.md"
   - logger: "logger/README.md"
   - namespacer: "namespacer/README.md"
-  - performance: performance/README.md"
+  - performance: "performance/README.md"
   - pixelsDisplayed: "pixelsDisplayed/README.md"
   - polyfills: "polyfills/README.md"
   - region: "region/README.md"

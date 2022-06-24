@@ -1,5 +1,4 @@
 site_name: bv-ui-core
-docs_dir: .
 nav:
   - Introduction: "README.md"
   - api: "lib/api/README.md"

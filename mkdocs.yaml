@@ -1,28 +1,5 @@
 site_name: bv-ui-core
 docs_dir: lib
-nav:
-  - api: "api/README.md"
-  - application: "application/README.md"
-  - body: "body/README.md"
-  - checkHighContrast: "checkHighContrast/README.md"
-  - cookie: "cookie/README.md"
-  - cookieConsent: "cookieConsent/README.md"
-  - cssLoadChecker: "cssLoadChecker/README.md"
-  - date.now: "date.now/README.md"
-  - domainPolice: "domainPolice/README.md"
-  - evented: "evented/README.md"
-  - getOriginalConstructor: "getOriginalConstructor/README.md"
-  - global: "global/README.md"
-  - ie: "ie/README.md"
-  - loader: "loader/README.md"
-  - logger: "logger/README.md"
-  - namespacer: "namespacer/README.md"
-  - performance: "performance/README.md"
-  - pixelsDisplayed: "pixelsDisplayed/README.md"
-  - polyfills: "polyfills/README.md"
-  - region: "region/README.md"
-  - staticAssetLoader: "staticAssetLoader/README.md"
-  - waitForBody: "waitForBody/README.md"
 plugins:
   - techdocs-core
 repo_url: https://github.com/bazaarvoice/bv-ui-core/
